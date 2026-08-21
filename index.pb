@@ -1,6 +1,6 @@
 
 åŒ…å­æ¼«ç”» PlusBZ+@1b17aa1f71e05daf43a6ae43f5418535228cbedb9e7d13cca0b00d1bdecdc506"8
-6https://github.com/haorenfunia/baozimh-plus-tachimangaªº
-·
-åŒ…å­æ¼«ç”» Plus0eu.kanade.tachiyomi.extension.zh.baozimanhuaplus€
-whttps://raw.githubusercontent.com/haorenfunia/baozimh-plus-tachimanga/main/apk/tachiyomi-zh.baozimanhuaplus-v1.4.29.apk„https://raw.githubusercontent.com/haorenfunia/baozimh-plus-tachimanga/main/icon/eu.kanade.tachiyomi.extension.zh.baozimanhuaplus.png"1.4(21.4.298B ƒ¤ªê÷ï™¹OåŒ…å­æ¼«ç”» Pluszh"https://cn.baozimh.com*https://cn.baozimh.com*https://tw.baozimh.com*https://www.baozimh.com*https://cn.webmota.com*https://tw.webmota.com*https://www.webmota.com*https://cn.kukuc.co*https://tw.kukuc.co*https://www.kukuc.co*https://cn.twmanga.com*https://tw.twmanga.com*https://www.twmanga.com*https://cn.dinnerku.com*https://tw.dinnerku.com*https://www.dinnerku.comB9„¤ªê÷ï™¹OåŒ…å­æ¼«ç”» Proxyzh"http://127.0.0.1:8787
+6https://github.com/haorenfunia/baozimh-plus-tachimangaª´
+±
+åŒ…å­æ¼«ç”» Plus0eu.kanade.tachiyomi.extension.zh.baozimanhuaplusú
+whttps://raw.githubusercontent.com/haorenfunia/baozimh-plus-tachimanga/main/apk/tachiyomi-zh.baozimanhuaplus-v1.4.30.apk„https://raw.githubusercontent.com/haorenfunia/baozimh-plus-tachimanga/main/icon/eu.kanade.tachiyomi.extension.zh.baozimanhuaplus.pngªwhttps://raw.githubusercontent.com/haorenfunia/baozimh-plus-tachimanga/main/jar/tachiyomi-zh.baozimanhuaplus-v1.4.30.jar"1.4(21.4.308B ƒ¤ªê÷ï™¹OåŒ…å­æ¼«ç”» Pluszh"https://cn.baozimh.com*https://cn.baozimh.com*https://tw.baozimh.com*https://www.baozimh.com*https://cn.webmota.com*https://tw.webmota.com*https://www.webmota.com*https://cn.kukuc.co*https://tw.kukuc.co*https://www.kukuc.co*https://cn.twmanga.com*https://tw.twmanga.com*https://www.twmanga.com*https://cn.dinnerku.com*https://tw.dinnerku.com*https://www.dinnerku.comB9„¤ªê÷ï™¹OåŒ…å­æ¼«ç”» Proxyzh"http://127.0.0.1:8787
