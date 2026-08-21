@@ -1,25 +1,55 @@
-[
-  {
-    "name": "Tachiyomi: 包子漫画 Plus",
-    "pkg": "eu.kanade.tachiyomi.extension.zh.baozimanhuaplus",
-    "apk": "tachiyomi-zh.baozimanhuaplus-v1.4.29.apk",
-    "lang": "zh",
-    "code": 29,
-    "version": "1.4.29",
-    "nsfw": 0,
-    "sources": [
+{
+  "name": "包子漫画 Plus",
+  "badgeLabel": "BZ+",
+  "signingKey": "1b17aa1f71e05daf43a6ae43f5418535228cbedb9e7d13cca0b00d1bdecdc506",
+  "contact": {
+    "website": "https://github.com/haorenfunia/baozimh-plus-tachimanga"
+  },
+  "extensionList": {
+    "extensions": [
       {
         "name": "包子漫画 Plus",
-        "lang": "zh",
-        "id": "5724751873601868291",
-        "baseUrl": "https://cn.baozimh.com"
-      },
-      {
-        "name": "包子漫画 Proxy",
-        "lang": "zh",
-        "id": "5724751873601868292",
-        "baseUrl": "http://127.0.0.1:8787"
+        "packageName": "eu.kanade.tachiyomi.extension.zh.baozimanhuaplus",
+        "resources": {
+          "apkUrl": "https://raw.githubusercontent.com/haorenfunia/baozimh-plus-tachimanga/main/apk/tachiyomi-zh.baozimanhuaplus-v1.4.29.apk",
+          "iconUrl": "https://raw.githubusercontent.com/haorenfunia/baozimh-plus-tachimanga/main/icon/eu.kanade.tachiyomi.extension.zh.baozimanhuaplus.png"
+        },
+        "extensionLib": "1.4",
+        "versionCode": "29",
+        "versionName": "1.4.29",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "sources": [
+          {
+            "id": "5724751873601868291",
+            "name": "包子漫画 Plus",
+            "language": "zh",
+            "homeUrl": "https://cn.baozimh.com",
+            "mirrorUrls": [
+              "https://cn.baozimh.com",
+              "https://tw.baozimh.com",
+              "https://www.baozimh.com",
+              "https://cn.webmota.com",
+              "https://tw.webmota.com",
+              "https://www.webmota.com",
+              "https://cn.kukuc.co",
+              "https://tw.kukuc.co",
+              "https://www.kukuc.co",
+              "https://cn.twmanga.com",
+              "https://tw.twmanga.com",
+              "https://www.twmanga.com",
+              "https://cn.dinnerku.com",
+              "https://tw.dinnerku.com",
+              "https://www.dinnerku.com"
+            ]
+          },
+          {
+            "id": "5724751873601868292",
+            "name": "包子漫画 Proxy",
+            "language": "zh",
+            "homeUrl": "http://127.0.0.1:8787"
+          }
+        ]
       }
     ]
   }
-]
+}
