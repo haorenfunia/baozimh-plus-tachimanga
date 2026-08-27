@@ -11,13 +11,13 @@
         "name": "包子漫画 Plus",
         "packageName": "eu.kanade.tachiyomi.extension.zh.baozimanhuaplus",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/haorenfunia/baozimh-plus-tachimanga/main/apk/tachiyomi-zh.baozimanhuaplus-v1.6.32.apk",
+          "apkUrl": "https://raw.githubusercontent.com/haorenfunia/baozimh-plus-tachimanga/main/apk/tachiyomi-zh.baozimanhuaplus-v1.6.33.apk",
           "iconUrl": "https://raw.githubusercontent.com/haorenfunia/baozimh-plus-tachimanga/main/icon/eu.kanade.tachiyomi.extension.zh.baozimanhuaplus.png",
-          "jarUrl": "https://raw.githubusercontent.com/haorenfunia/baozimh-plus-tachimanga/main/jar/tachiyomi-zh.baozimanhuaplus-v1.6.32.jar"
+          "jarUrl": "https://raw.githubusercontent.com/haorenfunia/baozimh-plus-tachimanga/main/jar/tachiyomi-zh.baozimanhuaplus-v1.6.33.jar"
         },
         "extensionLib": "1.6",
-        "versionCode": "32",
-        "versionName": "1.6.32",
+        "versionCode": "33",
+        "versionName": "1.6.33",
         "contentWarning": "CONTENT_WARNING_SAFE",
         "sources": [
           {
@@ -42,17 +42,9 @@
               "https://tw.dinnerku.com",
               "https://www.dinnerku.com"
             ]
-          },
-          {
-            "id": "5724751873601868292",
-            "name": "包子漫画 Proxy",
-            "language": "zh",
-            "homeUrl": "http://127.0.0.1:8787"
           }
         ]
       }
     ]
   }
 }
-
-
