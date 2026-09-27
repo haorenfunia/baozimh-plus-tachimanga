@@ -11,8 +11,8 @@
         "name": "包子漫画 Plus",
         "packageName": "eu.kanade.tachiyomi.extension.zh.baozimanhuaplus",
         "resources": {
-          "apkUrl": "https://raw.githubusercontent.com/haorenfunia/baozimh-plus-tachimanga/main/apk/tachiyomi-zh.baozimanhuaplus-v1.6.37.apk",
-          "iconUrl": "https://raw.githubusercontent.com/haorenfunia/baozimh-plus-tachimanga/main/icon/eu.kanade.tachiyomi.extension.zh.baozimanhuaplus.png"
+          "apkUrl": "https://cdn.jsdelivr.net/gh/haorenfunia/baozimh-plus-tachimanga@main/apk/tachiyomi-zh.baozimanhuaplus-v1.6.37.apk",
+          "iconUrl": "https://cdn.jsdelivr.net/gh/haorenfunia/baozimh-plus-tachimanga@main/icon/eu.kanade.tachiyomi.extension.zh.baozimanhuaplus.png"
         },
         "extensionLib": "1.6",
         "versionCode": 37,
