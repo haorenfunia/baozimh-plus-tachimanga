@@ -1,0 +1,9 @@
+{
+  "index_v2": "https://raw.githubusercontent.com/haorenfunia/baozimh-plus-tachimanga/main/mihon-store/index.v2.json",
+  "meta": {
+    "name": "包子漫画 Plus",
+    "shortName": "BZ+",
+    "website": "https://github.com/haorenfunia/baozimh-plus-tachimanga",
+    "signingKeyFingerprint": "1b17aa1f71e05daf43a6ae43f5418535228cbedb9e7d13cca0b00d1bdecdc506"
+  }
+}
